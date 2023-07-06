@@ -1,0 +1,6 @@
+tyutyu,tyutyu,customer,tyutyu,tyutyu,tyutyu,Tue May 30 22:50:56 2023
+rtyrt,rtyrty,customer,rtyrty,rtyrty,rtyrty,Tue May 30 22:52:06 2023
+qweqweqwe,asdasd,customer,qweqwe,qweqwe,asdasd,Tue May 30 22:52:06 2023
+qweqwe,qweasd,customer,qweqw,qwe,qwe,Tue May 30 22:59:57 2023
+qwe,asdasd,customer,qwe,23,asd,Wed May 31 10:45:18 2023
+qweqweqweqwe,asdasd,customer,sd,12,asd,Wed May 31 10:46:14 2023

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\jingzhi\Desktop\IOOP\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(1903,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jingzhi\Desktop\IOOP\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(1803,9): warning C4101: 'choice': unreferenced local variable
+C:\Users\jingzhi\Desktop\IOOP\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(2693,17): warning C4101: 'asd': unreferenced local variable
+  ConsoleApplication6.vcxproj -> C:\Users\jingzhi\Desktop\IOOP\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe
